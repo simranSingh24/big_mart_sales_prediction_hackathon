@@ -30,7 +30,7 @@ This project delivers an end-to-end solution for forecasting **item–outlet lev
 ├──|── cleaned_test.csv     # Cleaned training data
 ├── submission.csv          # Final predictions for submission
 └── README.md               # Project documentation
-
+```
 ---
 
 ##  Approach Summary
