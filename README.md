@@ -79,7 +79,7 @@ cd bigmart-sales-forecast
 pip install -r requirements.txt
 
 # Perform EDA
-jupyter notebook eda_all.ipynb
+jupyter notebook eda.ipynb
 
 # Train model and generate submission
 jupyter notebook model_train.ipynb
