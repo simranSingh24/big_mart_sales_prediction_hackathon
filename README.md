@@ -1,6 +1,6 @@
 # Big Mart Sales Forecast — Big Mart Sales III Hackathon
 
-**Competition:** [Big Mart Sales Prediction III](https://www.analyticsvidhya.com/datahack/contest/practice-problem-big-mart-sales-iii/) on Analytics Vidhya, a platform offering a professional setup for showcasing data science skills  [oai_citation:0‡Analytics Vidhya](https://www.analyticsvidhya.com/datahack/contest/practice-problem-big-mart-sales-iii?utm_source=chatgpt.com)
+**Competition:** [Big Mart Sales Prediction III](https://www.analyticsvidhya.com/datahack/contest/practice-problem-big-mart-sales-iii/) on Analytics Vidhya, a platform offering a professional setup for showcasing data science skills
 
 ---
 
@@ -20,6 +20,7 @@ This project delivers an end-to-end solution for forecasting **item–outlet lev
 ---
 
 ##  Repository Structure
+```text
 ├── eda_all.ipynb           # Exploratory Data Analysis & data cleaning
 ├── model_train.ipynb       # Modeling, OOF diagnostics, prediction
 ├── data                    # Main data folder
