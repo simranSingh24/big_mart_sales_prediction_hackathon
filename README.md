@@ -21,7 +21,7 @@ This project delivers an end-to-end solution for forecasting **item–outlet lev
 
 ##  Repository Structure
 ```text
-├── eda_all.ipynb           # Exploratory Data Analysis & data cleaning
+├── eda.ipynb           # Exploratory Data Analysis & data cleaning
 ├── model_train.ipynb       # Modeling, OOF diagnostics, prediction
 ├── data                    # Main data folder
 ├──|── train.csv            # Raw training data
